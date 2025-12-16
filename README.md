@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
