@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
 | ------- |
