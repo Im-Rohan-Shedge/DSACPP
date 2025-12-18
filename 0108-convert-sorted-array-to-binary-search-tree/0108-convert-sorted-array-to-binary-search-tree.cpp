@@ -13,7 +13,7 @@ class Solution {
 public:
      TreeNode* fun(vector<int>& nums,int n,int m){
         if(n>m) return nullptr;
-        int mid=m+(n-m)/2;
+        int mid=n+(m-n)/2;
         TreeNode* root=new TreeNode(nums[mid]);
         root->left=fun(nums,n,mid-1);
         root->right=fun(nums,mid+1,m);
