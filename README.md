@@ -40,6 +40,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0125-valid-palindrome](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
