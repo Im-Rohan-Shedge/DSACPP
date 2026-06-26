@@ -37,6 +37,7 @@
 | [0027-remove-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0141-linked-list-cycle) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
 ## Tree
