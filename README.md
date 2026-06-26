@@ -39,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 ## Trie
@@ -73,12 +74,14 @@
 | [0125-valid-palindrome](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
 | ------- |
