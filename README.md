@@ -37,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0145-binary-tree-postorder-traversal) |
@@ -76,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0125-valid-palindrome) |
@@ -105,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -180,4 +184,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
