@@ -18,6 +18,7 @@
 | [0141-linked-list-cycle](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0724-find-pivot-index) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
 | ------- |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
