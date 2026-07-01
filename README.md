@@ -47,6 +47,7 @@
 | [0136-single-number](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
@@ -99,6 +100,7 @@
 | [0035-search-insert-position](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
@@ -188,6 +190,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
@@ -202,6 +205,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
