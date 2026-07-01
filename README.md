@@ -48,6 +48,7 @@
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -96,6 +97,7 @@
 | [0035-search-insert-position](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
@@ -184,6 +186,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
@@ -197,6 +200,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
