@@ -18,6 +18,7 @@
 | [0141-linked-list-cycle](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0485-max-consecutive-ones](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Im-Rohan-Shedge/DSACPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
